@@ -112,4 +112,6 @@ That's it! Congratulations, now you can use this overlay and it'll automatically
 
 This is fully working but I believe I can add more buttons in the future so feedback will be appreciated!
 
+Anyone who wants to improve on this can go ahead! Please fork the repo so that I can see your progress 😁
+
 
