@@ -9,7 +9,7 @@ I would like to give credits to Reddit user u/Cris_250299 whose post [here](http
 
 [Video of the overlay working in both orientations](https://www.reddit.com/r/RetroArch/comments/1lhkk1i/tried_making_my_own_custom_bezeless_overlay_for/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
-##Installation:
+## Installation:
 
 1. Download the folder as a zip file by clicking the Code section.
 
@@ -38,7 +38,9 @@ I would like to give credits to Reddit user u/Cris_250299 whose post [here](http
 
    vi) Auto-Rotate Overlay: On
 
-9. Now, toggle off Auto-Scale Overlay. You should be able to see various values. Make sure the values are as follows:
+> These values work best on a 20:9 screen, maybe some tinkering will be required if your screen ratio is different.
+
+8. Now, toggle off Auto-Scale Overlay. You should be able to see various values. Make sure the values are as follows:
 
    i) (Landscape) Overlay Scale: 1.000
 
@@ -64,9 +66,9 @@ I would like to give credits to Reddit user u/Cris_250299 whose post [here](http
 
    xi) (Portrait) Overlay Y Offset: -0.025
 
-10. To save your changes, now exit from On-Screen Overlay section and then scroll to Overrides.
+9. To save your changes, now exit from On-Screen Overlay section and then scroll to Overrides.
 
-11. Now, there are many options so it's upto you:
+10. Now, there are many options so it's upto you:
 
     i) If you want this overlay only for a particular game, then click on Save Game Overrides.
 
@@ -74,11 +76,13 @@ I would like to give credits to Reddit user u/Cris_250299 whose post [here](http
 
     iii) If you want this overlay for all content loaded with the core, then click on Save Core Overrides.
 
-12. After choosing your Overrides options, now click the Setting icon (looks like a cogwheel). Don't quit your game and then do this or else this will be global and will reflect on all cores!
+11. After choosing your Overrides options, now click the Setting icon (looks like a cogwheel). Don't quit your game and then do this or else this will be global and will reflect on all cores!
 
-13. Go to Video -> Scaling.
+12. Go to Video -> Scaling.
 
-14. Configure the values as mentioned below:
+> These values work best on a 20:9 screen, maybe some tinkering will be required if your screen ratio is different.
+
+13. Configure the values as mentioned below:
 
     i) Integer Scaling: Off
 
@@ -102,11 +106,11 @@ I would like to give credits to Reddit user u/Cris_250299 whose post [here](http
 
     xi) Crop Overscan (Restart Required): On
 
-15. Go back to Overrides in the Quick Menu (if you can't find it, then select the 3 bullet points with lines -> Select your playlist -> Select your game -> Overrides.
+14. Go back to Overrides in the Quick Menu (if you can't find it, then select the 3 bullet points with lines -> Select your playlist -> Select your game -> Overrides.
 
-16. Repeat the same choice that you've made in step 11.
+15. Repeat the same choice that you've made in step 11.
 
-17. Now you can go back to your game and check out the overlay! All buttons should be working and the overlay look will automatically change based on your phone's orientation.
+16. Now you can go back to your game and check out the overlay! All buttons should be working and the overlay look will automatically change based on your phone's orientation.
 
 That's it! Congratulations, now you can use this overlay and it'll automatically change according to the orientation that your phone is in. Hope you enjoy this!
 
