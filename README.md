@@ -24,17 +24,17 @@ Installation:
 
 7. Make sure the following options are configured as mentioned below:
 
-   i) Show Overlay Behind Menu - Off
+   i) Show Overlay Behind Menu: Off
 
-   ii) Hide Overlay in Menu - On
+   ii) Hide Overlay in Menu: On
 
-   iii) Hide Overlay when Controller is Connected - Off
+   iii) Hide Overlay when Controller is Connected: Off
 
-   iv) Show Inputs on Overlay - Touched
+   iv) Show Inputs on Overlay: Touched
 
-   v) Show Mouse Cursor with Overlay - On
+   v) Show Mouse Cursor with Overlay: On
 
-   vi) Auto-Rotate Overlay - On
+   vi) Auto-Rotate Overlay: On
 
 9. Now, toggle off Auto-Scale Overlay. You should be able to see various values. Make sure the values are as follows:
 
@@ -104,8 +104,10 @@ Installation:
 
 16. Repeat the same choice that you've made in step 11.
 
+17. Now you can go back to your game and check out the overlay! All buttons should be working and the overlay look will automatically change based on your phone's orientation.
+
 That's it! Congratulations, now you can use this overlay and it'll automatically change according to the orientation that your phone is in. Hope you enjoy this!
 
-Feedback will be appreciated, thanks in advance.
+This is fully working but I believe I can add more buttons in the future so feedback will be appreciated!
 
 
